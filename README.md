@@ -22,7 +22,7 @@ _Venho aqui para criar meu primeiro repositório como parte do desafio da DIO, u
 
 
 
-## _Link para download do Git_ [Clique Aqui] (https://git-scm.com/downloads)
+## _Link para download do Git_ [Clique Aqui](https://git-scm.com/downloads)
 
-## _Link para meu perfil no GitHub_ [Clique Aqui] (https://bityli.com/RJohva)
+## _Link para meu perfil no GitHub_ [Clique Aqui](https://bityli.com/RJohva)
 
